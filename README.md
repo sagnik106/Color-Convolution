@@ -29,8 +29,8 @@ The Maximum validation accuracy attained by the proposed model is 0.89%. For dat
 ![metrics](https://github.com/sagnik106/Color-Convolution/blob/master/resources/metrics.png)
 
 ## File Cofiguration
-* [cifar10.ipynb]() - Jupyter notebook which has the analysis of dataset along with the declaration and training of the model
-* [resources/](https://github.com/sagnik106/MNIST-c-GAN/blob/master/resources/) - Github README resources
+* [cifar10.ipynb](https://github.com/sagnik106/Color-Convolution/blob/master/cifar10.ipynb) - Jupyter notebook which has the analysis of dataset along with the declaration and training of the model
+* [resources/](https://github.com/sagnik106/Color-Convolution/blob/master/resources/) - Github README resources
 
 ## Author
 Sagnik Sarkar - [![Github](https://img.shields.io/badge/Github-Sagnik%20Sarkar-green?style=for-the-badge&logo=github)](https://github.com/sagnik106)
